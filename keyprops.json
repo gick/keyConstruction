@@ -1,0 +1,13 @@
+{"_id":{"$oid":"5d668c638f6f3d7798e40a06"},"normalizedForm":"Phyllotaxie","frTitle":"Phyllotaxie","frSubtitle":"Disposition des feuilles sur la tige","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d668c7fdefd3677cc56c41d"},"normalizedForm":"Apex","frTitle":"Apex","frSubtitle":"Sommet du limbe","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d668c8f4f8f3c7811f91de1"},"normalizedForm":"Aspect","frTitle":"Aspect","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d668c9c36450178317c5a8b"},"normalizedForm":"Base","frTitle":"Base","frSubtitle":"Base du limbe","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d668cab9d3ffd78662af572"},"normalizedForm":"Division","frTitle":"Division","frSubtitle":"Division du limbe","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d668cc0288a5878a8dc4702"},"normalizedForm":"Forme_limbe","frTitle":"Forme_limbe","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d668cc8c177d978c0afce78"},"normalizedForm":"Pilosité","frTitle":"Pilosité","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d668d1db1285e79930fe96a"},"normalizedForm":"Marge","frTitle":"Marge","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d668d2d12a09d79b384c6dc"},"normalizedForm":"Nervation","frTitle":"Nervation","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d668d3a1aa54e79ec0cc451"},"normalizedForm":"Taille","frTitle":"Taille","frSubtitle":"Taille du limbe","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d668d48785e8c79ff74d743"},"normalizedForm":"Toucher","frTitle":"Toucher","frSubtitle":"Texture du limbe","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d668e436f048b7c98103c63"},"normalizedForm":"Contraste","frTitle":"Contraste","frSubtitle":"Couleur du dessus et du dessous du limbe","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d668e537730647cb1b465a7"},"normalizedForm":"Pétiole ","frTitle":"Pétiole ","frSubtitle":"Taille du pétiole","__v":{"$numberInt":"0"}}
